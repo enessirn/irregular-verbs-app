@@ -1,0 +1,439 @@
+{
+    "verbs": [
+        {
+            "v1": "arise",
+            "v2": "arose",
+            "mean": "ortaya çıkmak"
+        },
+        {
+            "v1": "be",
+            "v2": "was were",
+            "mean": "olmak"
+        },
+        {
+            "v1": "begin",
+            "v2": "began",
+            "mean": "başlamak"
+        },
+        {
+            "v1": "bend",
+            "v2": "bent",
+            "mean": "bükmek"
+        },
+        {
+            "v1": "bite",
+            "v2": "bit",
+            "mean": "ısırmak"
+        },
+        {
+            "v1": "bleed",
+            "v2": "bled",
+            "mean": "kanamak"
+        },
+        {
+            "v1": "blow",
+            "v2": "blew",
+            "mean": "Üflemek, Vurmak, Patlatmak"
+        },
+        {
+            "v1": "break",
+            "v2": "broke",
+            "mean": "Kırmak"
+        },
+        {
+            "v1": "bring",
+            "v2": "brought",
+            "mean": "getirmek"
+        },
+        {
+            "v1": "build",
+            "v2": "built",
+            "mean": "inşa etmek"
+        },
+        {
+            "v1": "burn",
+            "v2": "burnt",
+            "mean": "yakmak"
+        },
+        {
+            "v1": "buy",
+            "v2": "bought",
+            "mean": "satın almak"
+        },
+        {
+            "v1": "catch",
+            "v2": "caught",
+            "mean": "yakalamak"
+        },
+        {
+            "v1": "choose",
+            "v2": "chose",
+            "mean": "seçmek"
+        },
+        {
+            "v1": "come",
+            "v2": "came",
+            "mean": "gelmek"
+        },
+        {
+            "v1": "creep",
+            "v2": "crept",
+            "mean": "sürünmek"
+        },
+        {
+            "v1": "deal",
+            "v2": "dealt",
+            "mean": "anlaşmak"
+        },
+        {
+            "v1": "dig",
+            "v2": "dug",
+            "mean": "kazmak"
+        },
+        {
+            "v1": "do",
+            "v2": "did",
+            "mean": "yapmak"
+        },
+        {
+            "v1": "draw",
+            "v2": "drew",
+            "mean": "çizmek"
+        },
+        {
+            "v1": "dream",
+            "v2": "dreamt",
+            "mean": "rüya görmek"
+        },
+        {
+            "v1": "drink",
+            "v2": "drank",
+            "mean": "içtim"
+        },
+        {
+            "v1": "drive",
+            "v2": "drove",
+            "mean": "sürmek"
+        },
+        {
+            "v1": "eat",
+            "v2": "ate",
+            "mean": "yemek"
+        },
+        {
+            "v1": "fall",
+            "v2": "fell",
+            "mean": "düşmek"
+        },
+        {
+            "v1": "fight",
+            "v2": "fought",
+            "mean": "dövüşmek"
+        },
+        {
+            "v1": "find",
+            "v2": "found",
+            "mean": "bulmak"
+        },
+        {
+            "v1": "fly",
+            "v2": "flew",
+            "mean": "uçmak"
+        },
+        {
+            "v1": "forbid",
+            "v2": "forbade",
+            "mean": "yasaklamak"
+        },
+        {
+            "v1": "forget",
+            "v2": "forgot",
+            "mean": "unutmak"
+        },
+        {
+            "v1": "forgive",
+            "v2": "forgave",
+            "mean": "affetmek"
+        },
+        {
+            "v1": "freeze",
+            "v2": "froze",
+            "mean": "Dondurmak"
+        },
+        {
+            "v1": "get",
+            "v2": "got",
+            "mean": "almak"
+        },
+        {
+            "v1": "give",
+            "v2": "gave",
+            "mean": "vermek"
+        },
+        {
+            "v1": "go",
+            "v2": "went",
+            "mean": "gitmek"
+        },
+        {
+            "v1": "grow",
+            "v2": "grew",
+            "mean": "büyümek"
+        },
+        {
+            "v1": "hang",
+            "v2": "hung",
+            "mean": "asılmak"
+        },
+        {
+            "v1": "have",
+            "v2": "had",
+            "mean": "sahip olmak"
+        },
+        {
+            "v1": "hear",
+            "v2": "heard",
+            "mean": "duymak"
+        },
+        {
+            "v1": "hide",
+            "v2": "hid",
+            "mean": "gizlemek, saklamak"
+        },
+        {
+            "v1": "hold",
+            "v2": "held",
+            "mean": "tutmak"
+        },
+        {
+            "v1": "know",
+            "v2": "knew",
+            "mean": "bilmek"
+        },
+        {
+            "v1": "lay",
+            "v2": "laid",
+            "mean": "yatmak, koymak"
+        },
+        {
+            "v1": "lead",
+            "v2": "led",
+            "mean": "götürmek"
+        },
+        {
+            "v1": "leave",
+            "v2": "left",
+            "mean": "ayrılmak"
+        },
+        {
+            "v1": "lend",
+            "v2": "lent",
+            "mean": "ödünç vermek, borç vermek"
+        },
+        {
+            "v1": "light",
+            "v2": "lit",
+            "mean": "yakmak"
+        },
+        {
+            "v1": "lose",
+            "v2": "lost",
+            "mean": "kaybetmek"
+        },
+        {
+            "v1": "make",
+            "v2": "made",
+            "mean": "yapmak"
+        },
+        {
+            "v1": "mean",
+            "v2": "meant",
+            "mean": "anlamına gelir"
+        },
+        {
+            "v1": "meet",
+            "v2": "met",
+            "mean": "buluşmak, tanışmak"
+        },
+        {
+            "v1": "pay",
+            "v2": "paid",
+            "mean": "ödemek"
+        },
+        {
+            "v1": "ride",
+            "v2": "rode",
+            "mean": "binmek"
+        },
+        {
+            "v1": "ring",
+            "v2": "rang",
+            "mean": "çalmak"
+        },
+        {
+            "v1": "rise",
+            "v2": "rose",
+            "mean": "yükselmek"
+        },
+        {
+            "v1": "run",
+            "v2": "ran",
+            "mean": "çalıştırmak, koşmak"
+        },
+        {
+            "v1": "say",
+            "v2": "said",
+            "mean": "söylemek, demek"
+        },
+        {
+            "v1": "see",
+            "v2": "saw",
+            "mean": "görmek"
+        },
+        {
+            "v1": "sell",
+            "v2": "sold",
+            "mean": "satmak"
+        },
+        {
+            "v1": "send",
+            "v2": "sent",
+            "mean": "göndermek"
+        },
+        {
+            "v1": "shake",
+            "v2": "shook",
+            "mean": "sallamak"
+        },
+        {
+            "v1": "shine",
+            "v2": "shone",
+            "mean": "parlamak"
+        },
+        {
+            "v1": "shoot",
+            "v2": "shot",
+            "mean": "vurmak"
+        },
+        {
+            "v1": "sing",
+            "v2": "sang",
+            "mean": "şarkı söylemek"
+        },
+        {
+            "v1": "sink",
+            "v2": "sank",
+            "mean": "batmak"
+        },
+        {
+            "v1": "sit",
+            "v2": "sat",
+            "mean": "oturmak"
+        },
+        {
+            "v1": "sleep",
+            "v2": "slept",
+            "mean": "uyumak"
+        },
+        {
+            "v1": "smell",
+            "v2": "smelt",
+            "mean": "kokmak"
+        },
+        {
+            "v1": "speak",
+            "v2": "spoke",
+            "mean": "konuşmak"
+        },
+        {
+            "v1": "spell",
+            "v2": "spelt",
+            "mean": "hecelemek"
+        },
+        {
+            "v1": "spend",
+            "v2": "spent",
+            "mean": "harcamak"
+        },
+        {
+            "v1": "spill",
+            "v2": "spilt",
+            "mean": "dökmek"
+        },
+        {
+            "v1": "spoil",
+            "v2": "spoilt",
+            "mean": "mahvetmek"
+        },
+        {
+            "v1": "stand",
+            "v2": "stood",
+            "mean": "durmak"
+        },
+        {
+            "v1": "steal",
+            "v2": "stole",
+            "mean": "çalmak"
+        },
+        {
+            "v1": "stick",
+            "v2": "stuck",
+            "mean": "yapışmak"
+        },
+        {
+            "v1": "swim",
+            "v2": "swam",
+            "mean": "yüzmek"
+        },
+        {
+            "v1": "take",
+            "v2": "took",
+            "mean": "almak"
+        },
+        {
+            "v1": "teach",
+            "v2": "taught",
+            "mean": "öğretmek"
+        },
+        {
+            "v1": "tell",
+            "v2": "told",
+            "mean": "anlatmak, söylemek"
+        },
+        {
+            "v1": "think",
+            "v2": "thought",
+            "mean": "düşünmek, sanmak"
+        },
+        {
+            "v1": "throw",
+            "v2": "threw",
+            "mean": "atmak"
+        },
+        {
+            "v1": "understand",
+            "v2": "understood",
+            "mean": "anlamak"
+        },
+        {
+            "v1": "wake",
+            "v2": "woke",
+            "mean": "uyanmak"
+        },
+        {
+            "v1": "wear",
+            "v2": "wore",
+            "mean": "giymek"
+        },
+        {
+            "v1": "win",
+            "v2": "won",
+            "mean": "kazanmak"
+        },
+        {
+            "v1": "write",
+            "v2": "wrote",
+            "mean": "yazmak"
+        }
+    ]
+}
